@@ -1,4 +1,4 @@
 opencv-python==4.5.5.62
 streamlit==1.5.0
 mediapipe==0.8.9.1
-opencv_python_headless==4.5.2.54
+
